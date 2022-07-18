@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="TelegramForwardingServer:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="77e26bfa-15b3-4e89-a3a9-9d19960c5009" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
