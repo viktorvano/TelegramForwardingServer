@@ -13,7 +13,7 @@ import static com.viktor.vano.telegram.forwarding.server.FileManager.*;
 public class GUI extends Application {
     private static String TOKEN = "";
     private static String CHAT_ID = "";
-    private final String version = "20220715";
+    private final String version = "20230215";
     private final int width = 400;
     private final int height = 120;
 

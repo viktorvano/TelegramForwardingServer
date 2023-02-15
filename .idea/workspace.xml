@@ -6,7 +6,12 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="77e26bfa-15b3-4e89-a3a9-9d19960c5009" name="Changes" comment="" />
+    <list default="true" id="77e26bfa-15b3-4e89-a3a9-9d19960c5009" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/viktor/vano/telegram/forwarding/server/GUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/viktor/vano/telegram/forwarding/server/GUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/telegram.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/viktor/vano/telegram/forwarding/server/telegram.jpg" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,12 +32,18 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/viktorvano/Documents/GitHub/TelegramForwardingServer",
-    "project.structure.last.edited": "Artifacts",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "last_opened_file_path": "D:/Documents/GitHub/TelegramForwardingServer",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Documents\GitHub\TelegramForwardingServer\src\com\viktor\vano\telegram\forwarding\server" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="GUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.viktor.vano.telegram.forwarding.server.GUI" />
